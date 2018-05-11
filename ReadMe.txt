@@ -1,5 +1,8 @@
 This codebase is for the project 'Speech Emotion Recognition using CNN', and is prepared by Shubhankar Borse.
 
+Take a look at the report file attached here for more information about this project.
+
+
 
  Dear User,
 
